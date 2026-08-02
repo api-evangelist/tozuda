@@ -1,0 +1,21 @@
+# Tozuda
+
+> Tozuda is a Philadelphia-based safety technology company that makes mechanical (non-electronic) head impact indicators for helmets. The patented indicator changes from clear to red when a helmet sustains an impact exceeding a set G-force threshold, making hidden helmet damage visible to workers, athletes, and safety inspectors. Tozuda is a Techstars portfolio company. It does not currently publish a public API or developer program.
+
+## Company
+
+- [Website](https://tozuda.com/): Product overview, impact indicator technology, and FAQs
+- [Technology](https://www.tozuda.com/technology-2): How the mechanical impact indicator detects linear and rotational acceleration
+- [Contact](https://www.tozuda.com/contact): Contact and support
+- [Terms and Conditions](https://www.tozuda.com/termsandconditions): Terms of service
+- [Partner Login](https://www.tozuda.com/tozuda-partner-login-1): Partner portal (authenticated)
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/tozuda/refs/heads/main/apis.yml): API Evangelist network profile for Tozuda
+
+## Notes
+
+- No public API, developer portal, OpenAPI, or SDKs were found as of 2026-07-21.
+- No /.well-known/security.txt, openid-configuration, api-catalog, ai-plugin.json, or /llms.txt is published on tozuda.com.
+- No GitHub organization and no packages on npm or PyPI under the Tozuda name.

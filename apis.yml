@@ -1,8 +1,24 @@
 aid: tozuda
 name: Tozuda
-description: Tozuda is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Tozuda is a Philadelphia-based safety technology company that makes mechanical,
+  non-electronic head impact indicators for helmets. The patented indicator changes from
+  clear to red when a helmet sustains force exceeding a set G-force threshold, making
+  hidden helmet damage visible to workers, athletes, and safety inspectors across ANSI,
+  DOT, EN, CSA, CPSC, and SNELL helmet types. Tozuda is a Techstars portfolio company
+  and does not currently publish a public API or developer program.
 url: https://raw.githubusercontent.com/api-evangelist/tozuda/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: http://static1.squarespace.com/static/6556712f809876484f1b22e4/t/659d79b1a7495b78a6be4603/1704819121478/Tozuda+Impact+Indicators+clear+bkgd+-+larger.png?format=1500w
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -10,10 +26,21 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Safety
+- Hardware
+- Helmets
+- Impact Detection
+- Sensors
+- PPE
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,15 @@ maintainers:
 common:
 - type: Website
   url: https://tozuda.com/
+- type: Support
+  url: https://www.tozuda.com/contact
+- type: TermsOfService
+  url: https://www.tozuda.com/termsandconditions
+- type: Login
+  url: https://www.tozuda.com/tozuda-partner-login-1
+- type: DomainSecurity
+  url: security/tozuda-domain-security.yml
+- type: WellKnown
+  url: well-known/tozuda-well-known.yml
+- type: LLMsTxt
+  url: llms/tozuda-llms.txt
